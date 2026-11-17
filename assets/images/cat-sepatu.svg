@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Kategori sepatu">
+  <defs>
+    <linearGradient id="mumtaz_grad_cat_sepatu" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2D4C78"/>
+      <stop offset="1" stop-color="#16294A"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#mumtaz_grad_cat_sepatu)"/>
+  <circle cx="200" cy="250" r="150" fill="#C5A46D" opacity="0.12"/>
+  <ellipse cx="200" cy="372" rx="165" ry="12" fill="#000" opacity="0.28"/>
+  <g transform="translate(0,40)">
+    <path d="M45 290 L45 200 Q45 182 70 177 L120 168 Q148 168 168 192 Q192 226 245 236 Q325 246 355 280 L355 292 L45 292 Z" fill="#F5F0E6" stroke="#D9CDB4" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M45 270 Q45 268 355 270 L355 296 Q355 322 322 322 L78 322 Q45 322 45 296 Z" fill="#FFFFFF" stroke="#D9CDB4" stroke-width="3"/>
+    <path d="M148 196 L176 184 M162 212 L190 200 M178 228 L206 216" stroke="#C5A46D" stroke-width="5" stroke-linecap="round"/>
+    <path d="M45 240 H110" stroke="#C5A46D" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

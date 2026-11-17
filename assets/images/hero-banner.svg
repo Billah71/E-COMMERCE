@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 720" role="img" aria-label="Banner koleksi MUMTAZ FASHION">
+  <defs>
+    <linearGradient id="mumtaz_grad_hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1D3D68"/>
+      <stop offset="1" stop-color="#0D1E35"/>
+    </linearGradient>
+    <linearGradient id="mumtaz_grad_arch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FBF8F1"/>
+      <stop offset="1" stop-color="#EADFC8"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="720" fill="url(#mumtaz_grad_hero)"/>
+  <circle cx="540" cy="110" r="150" fill="none" stroke="#C5A46D" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="540" cy="110" r="105" fill="none" stroke="#C5A46D" stroke-width="1" opacity="0.35"/>
+  <circle cx="90" cy="640" r="120" fill="none" stroke="#C5A46D" stroke-width="1" opacity="0.3"/>
+
+  <!-- lengkungan krem -->
+  <path d="M110 700 V300 A210 210 0 0 1 530 300 V700 Z" fill="url(#mumtaz_grad_arch)"/>
+  <path d="M130 700 V300 A190 190 0 0 1 510 300 V700" fill="none" stroke="#C5A46D" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- gantungan -->
+  <path d="M320 238 V214 Q320 196 338 196 Q356 196 356 178" fill="none" stroke="#C5A46D" stroke-width="5" stroke-linecap="round"/>
+  <path d="M320 238 L215 290 Q205 296 216 298 L424 298 Q435 296 425 290 Z" fill="none" stroke="#C5A46D" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- coat navy -->
+  <path d="M236 292 L292 270 Q320 308 348 270 L404 292 L476 372 L444 422 L414 392 L414 660 L226 660 L226 392 L196 422 L164 372 Z" fill="#142B4A" stroke="#0B1A2E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M292 270 L320 392 L348 270" fill="none" stroke="#C5A46D" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M320 392 V660" stroke="#0B1A2E" stroke-width="3"/>
+  <circle cx="302" cy="440" r="7" fill="#C5A46D"/>
+  <circle cx="302" cy="500" r="7" fill="#C5A46D"/>
+  <circle cx="302" cy="560" r="7" fill="#C5A46D"/>
+  <path d="M244 520 H282 M358 520 H396" stroke="#2B4A73" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- lencana -->
+  <circle cx="548" cy="560" r="62" fill="#C5A46D"/>
+  <circle cx="548" cy="560" r="54" fill="none" stroke="#142B4A" stroke-width="1.5"/>
+  <text x="548" y="552" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#142B4A" letter-spacing="2">KOLEKSI</text>
+  <text x="548" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#142B4A">2026</text>
+</svg>

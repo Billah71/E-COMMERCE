@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 370" role="img" aria-label="Gambar QRIS simulasi (bukan QRIS asli)">
+  <defs>
+    <pattern id="mumtaz_pattern_a" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="8" height="8" fill="#142B4A"/>
+      <rect x="16" y="8" width="8" height="8" fill="#142B4A"/>
+      <rect x="8" y="16" width="8" height="8" fill="#142B4A"/>
+    </pattern>
+    <pattern id="mumtaz_pattern_b" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect x="8" y="0" width="8" height="8" fill="#142B4A"/>
+      <rect x="24" y="24" width="16" height="8" fill="#142B4A"/>
+      <rect x="0" y="32" width="8" height="8" fill="#142B4A"/>
+      <rect x="32" y="8" width="8" height="8" fill="#142B4A"/>
+    </pattern>
+  </defs>
+  <rect x="2" y="2" width="296" height="366" rx="18" fill="#FFFFFF" stroke="#142B4A" stroke-width="3"/>
+  <rect x="2" y="2" width="296" height="52" rx="18" fill="#142B4A"/>
+  <rect x="2" y="30" width="296" height="24" fill="#142B4A"/>
+  <text x="150" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#C5A46D" letter-spacing="6">QRIS</text>
+
+  <!-- area kode (pola acak simulasi) -->
+  <rect x="30" y="74" width="240" height="240" fill="#FFFFFF"/>
+  <rect x="38" y="82" width="224" height="224" fill="url(#mumtaz_pattern_a)"/>
+  <rect x="38" y="82" width="224" height="224" fill="url(#mumtaz_pattern_b)"/>
+
+  <!-- tiga kotak penanda sudut -->
+  <g fill="#FFFFFF"><rect x="34" y="78" width="70" height="70"/><rect x="196" y="78" width="70" height="70"/><rect x="34" y="240" width="70" height="70"/></g>
+  <g fill="#142B4A">
+    <rect x="38" y="82" width="62" height="62"/><rect x="200" y="82" width="62" height="62"/><rect x="38" y="244" width="62" height="62"/>
+  </g>
+  <g fill="#FFFFFF">
+    <rect x="46" y="90" width="46" height="46"/><rect x="208" y="90" width="46" height="46"/><rect x="46" y="252" width="46" height="46"/>
+  </g>
+  <g fill="#142B4A">
+    <rect x="54" y="98" width="30" height="30"/><rect x="216" y="98" width="30" height="30"/><rect x="54" y="260" width="30" height="30"/>
+  </g>
+
+  <!-- logo tengah -->
+  <rect x="124" y="166" width="52" height="52" rx="10" fill="#FFFFFF"/>
+  <rect x="130" y="172" width="40" height="40" rx="8" fill="#C5A46D"/>
+  <text x="150" y="201" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#142B4A">M</text>
+
+  <text x="150" y="338" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#142B4A">MUMTAZ FASHION</text>
+  <text x="150" y="356" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#b3261e" letter-spacing="1.5">SIMULASI - BUKAN QRIS ASLI</text>
+</svg>

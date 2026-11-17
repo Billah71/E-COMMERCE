@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Kategori pakaian pria">
+  <defs>
+    <linearGradient id="mumtaz_grad_cat_pria" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F4170"/>
+      <stop offset="1" stop-color="#0F2342"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#mumtaz_grad_cat_pria)"/>
+  <circle cx="200" cy="240" r="150" fill="#C5A46D" opacity="0.12"/>
+  <ellipse cx="200" cy="448" rx="120" ry="12" fill="#000" opacity="0.25"/>
+  <path d="M122 100 L165 80 L200 100 L235 80 L278 100 L352 190 L338 370 L298 370 L284 430 L116 430 L102 370 L62 370 L48 190 Z" fill="#F5F0E6" stroke="#D9CDB4" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M165 80 L200 128 L235 80" fill="none" stroke="#C5A46D" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M200 128 V430" stroke="#C5A46D" stroke-width="3"/>
+  <path d="M130 330 H175 M225 330 H270" stroke="#D9CDB4" stroke-width="4" stroke-linecap="round"/>
+</svg>
